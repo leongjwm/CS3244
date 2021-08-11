@@ -9,4 +9,4 @@ The butterfly images were obtained using Python's flickrAPI package, as well as 
 
 `MLP.ipynb`: A multilayer perceptron from Python's sklearn package which was trained using the butterfly images.
 
-`SVM.py': The baseline model which was used. The sklearn.svm.SVC function was used, where a linear kernel was used; top-1 accuracy was 84.2% and top-3 accuracy was 99.4% respectively.
+`SVM.py`: The baseline model which was used. The sklearn.svm.SVC function was used, where a linear kernel was used; top-1 accuracy was 84.2% and top-3 accuracy was 99.4% respectively.
